@@ -1,0 +1,60 @@
+{
+    "jobs": [
+        {
+            "title": "UX Designer",
+            "id": 1,
+            "details": [
+                {
+                    "skills": "User Research, Wireframing, Prototyping, Interaction Design ",
+                    "education": "Bachelor in Design, UX Certification ",
+                    "salary": "$80,000 - $100,000 "
+                }
+            ]
+        },
+        {
+            "title": "Python Developer ",
+            "id": 2,
+            "details": [
+                {
+                    "skills": "Python, Django, Flask, APIs, Data Structures ",
+                    "education": "Bachelors in Computer Science, Python Certification ",
+                    "salary": "$90,000 - $120,000 "
+                }
+            ]
+        },
+        {
+            "title": "Project Manager ",
+            "id": 3,
+            "details": [
+                {
+                    "skills": "Agile, Scrum, Project Planning, Risk Management ",
+                    "education": "Bachelor in Business, PMP Certification ",
+                    "salary": "$70,000 - $95,000 "
+                }
+            ]
+        },
+        {
+            "title": "Front-end Engineer ",
+            "id": 4,
+            "details": [
+                {
+                    "skills": "HTML, CSS, JavaScript, React, Vue.js, Web Design ",
+                    "education": "Bachelor in Computer Science, Front-end Development Bootcamp ",
+                    "salary": "$75,000 - $105,000 "
+                }
+            ]
+        },
+        {
+            "title": "DevOps Engineer ",
+            "id": 5,
+            "details": [
+                {
+                    "skills": "CI/CD, Docker, Kubernetes, Cloud Services, Automation ",
+                    "education": "Bachelor in Information Technology, AWS Certification ",
+                    "salary": "$100,000 - $130,000 "
+                }
+            ]
+        }
+    ]
+    
+}
